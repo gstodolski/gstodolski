@@ -1,4 +1,4 @@
 ### Graham Stodolski
-Sophomore at Yale studying Computer Science and Film & Media Studies.
+Junior at Yale studying Computer Science.
 
 Check me out at [grahamstodolski.com](https://grahamstodolski.com/).
