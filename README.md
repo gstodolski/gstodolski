@@ -1,4 +1,4 @@
 ### Graham Stodolski
-Yale Computer Science grad. Currently at Reverence Capital Partners. Formerly a SWE and PM at Teamshares.
+Yale CS grad. Currently at Actively AI. Formerly a PM at Teamshares.
 
 Check me out at [grahamstodolski.com](https://grahamstodolski.com/).
